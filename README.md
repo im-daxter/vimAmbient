@@ -8,9 +8,7 @@ Um ambiente de desenvolvimento **Vim**, customizado com o tema **Everforest**, a
 
 ## Demonstração do Tema
 
-![vim screenshot](assets/void-vim.png)
-![vimrc screenshot](assets/vimrc.png)
-
+![vim screenshot](assets/void-vim.png) ![vimrc screenshot](assets/vimrc.png)
 
 ## Conteúdo do Repositório
 
