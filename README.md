@@ -34,7 +34,7 @@ sudo pacman -S vim nodejs npm gcc
 Clone o repositório e coloque os arquivos na sua pasta $HOME(~).
 
 ```bash
-git clone https://github.com/im-daxter/vimAmbient.git ~/.vimAmbient
+git clone https://github.com/im-daxter/vimAmbient.git
 ```
 
 Copie os arquivos de configuração para a raiz
