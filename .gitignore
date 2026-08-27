@@ -1,0 +1,20 @@
+# Installed plugins directories
+plugged/
+bundle/
+pack/
+
+# Temporally files
+*.swp
+*.swo
+*.swn
+*~
+*.bak
+
+# history and session directories
+undo/
+backup/
+swap/
+view/
+
+.viminfo
+.netrwhist
