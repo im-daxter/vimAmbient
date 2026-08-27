@@ -9,8 +9,8 @@ Um ambiente de desenvolvimento **Vim**, customizado com o tema **Everforest**, a
 ## Demonstração do Tema
 
 <p align="center">
-  <img src="assets/image1.png" width="45%" />
-  <img src="assets/image2.png" width="45%" />
+  <img src="assets/image1.png" width="60%" />
+  <img src="assets/image2.png" width="60%" />
 </p>
 
 ## Conteúdo do Repositório
